@@ -14,5 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("tag2","msg2") ; //version 1.0.1.0
         Log.i("tag3","msg3") ; //version 1.0.1.0
+
+        Log.i("tag4","msg4") ; //version 1.0.2.0
+        Log.i("tag4","msg4") ; //version 1.0.2.0
+        Log.i("tag4","msg4") ; //version 1.0.2.0
+        Log.i("tag4","msg4") ; //version 1.0.2.0
+
     }
 }
