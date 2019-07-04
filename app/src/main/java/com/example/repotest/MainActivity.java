@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("tag1","msg1") ; //intial version
+        Log.i("tag1","msg1") ; //intial version 1.0.0.0
     }
 }
